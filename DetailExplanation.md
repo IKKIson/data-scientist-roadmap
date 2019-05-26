@@ -44,226 +44,231 @@ Chandrasekarn은 지하철지도를 영감으로 커리큘럼을 묘사하는데
 
 
 ## 1. Fundation
-(1) Matrics & Linear Algebra Fundations
-(2) Has Functions, Binary Tree, O(n) Big-O notation
-(3) Relation Algebra, DB Basics
-(4) Inner, Outer, Cross, Theta Join
-(5) CAP Theorem
-(6) Tubular Data
-(7) Entropy
-(8) Data Frames & Series
-(9) Sharding
-(10) OLAP
-(11) Multidimensional Data Model
-(12) ETL
-(13) Reporting VS BI VS Analytics
-(14) JSON & XML
-(15) NoSQL
-(16) Regex
-(17) Vendor Landscape
-(18) Env Setup
+
+1. Matrics & Linear Algebra Fundations
+2. Has Functions, Binary Tree, O(n) Big-O notation
+3. Relation Algebra, DB Basics
+4. Inner, Outer, Cross, Theta Join
+5. CAP Theorem
+6. Tubular Data
+7. Entropy
+8. Data Frames & Series
+9. Sharding
+10. OLAP
+11. Multidimensional Data Model
+12. ETL
+13. Reporting VS BI VS Analytics
+14. JSON & XML
+15. NoSQL
+16. Regex
+17. Vendor Landscape
+18. Env Setup
 
 <Line No.2 Start!>
 
 ## 2. Statistics 
-(1) Pick a Dataset (UCI Repo)
-(2) Descriptive Statistics (mean, median, range, SD, Var)
-(3) Exploatory Data Analysis <Line No.3 Start!>
-(4) Histograms
-(5) Percentiles & Outliers
-(6) Probability Theory
-(7) Bayes Theorem
-(8) Random Variables
-(9) Cumul Dist Fn(CDF)
-(10) Continous Distiributions(Normal, Poisson, Gaussian)
-(11) Skewness
-(12) ANOVA
-(13) Prob Den Fn(PDF)
-(14) Central Limit Theorem
-(15) Monte Carlo Method
-(16) Hypothesis Testing
-(17) p-Value
-(18) Chi2 Test
-(19) Estimation
-(20) Confid Int(c)
-(21) MLE
-(22) Kenrnel Density Estimate
-(23) Regression
-(24) Correlation
-(25) Pearson Coeff
-(26) Caustion
-(27) Leart2 Fit
-(28) Eucludean Distance
- 
-<Line No.4 Start!>
+
+1. Pick a Dataset (UCI Repo)
+2. Descriptive Statistics (mean, median, range, SD, Var)
+3. Exploatory Data Analysis 
+
+<Line No.3 Start!>
+
+4. Histograms
+5. Percentiles & Outliers
+6. Probability Theory
+7. Bayes Theorem
+8. Random Variables
+9. Cumul Dist Fn (CDF)
+10. Continous Distiributions (Normal, Poisson, Gaussian)
+11. Skewness
+12. ANOVA
+13. Prob Den Fn (PDF)
+14. Central Limit Theorem
+15. Monte Carlo Method
+16. Hypothesis Testing
+17. p-Value
+18. Chi2 Test
+19. Estimation
+20. Confid Int (C)
+21. MLE
+22. Kenrnel Density Estimate
+23. Regression
+24. Correlation
+25. Pearson Coeff
+26. Caustion
+27. Leart2 Fit
+28. Eucludean Distance
+
+ <Line No.4 Start!>
 
 ## 3. Programming 
-(1) Install PKG
-(2) Factor Analysis
-(3) Functions
-(4) Manipulate Data Frames
-(5) Subsetting Data
-(6) Reading Raw Data
-(7) Reading CSV Data
-(8) Data Frames
-(9) Lists
-(10) Factors
-(11) Matrices
-(12) Vectors
-(13) Variables
-(14) Rapid Miner
-(15) IBM SPSS
-(16) Expressions
-(17) R Basics
-(18) R Setup, R Studio
-(19) Working In Excel
-(20) Python Basics
+
+1. Install PKG
+2. Factor Analysis
+3. Functions
+4. Manipulate Data Frames
+5. Subsetting Data
+6. Reading Raw Data
+7. Reading CSV Data
+8. Data Frames
+9. Lists
+10. Factors
+11. Matrices
+12. Vectors
+13. Variables
+14. Rapid Miner
+15. IBM SPSS
+16. Expressions
+17. R Basics
+18. R Setup, R Studio
+19. Working In Excel
+20. Python Basics
 
 <Line No.4 Start!>
 
 ## 4. Maching Learning
-(1) What is ML?
-(2) Numerical Var
-(3) Categorical Var
-(4) Supervised Learning
-(5) Unsupervised Learning
-(6) Concepts, Input & Attributes
-(7) Training & Test Data
-(8) Classifier
-(9) Prediction
-(10) Lift
-(11) Overfiting
-(12) Bais & Variance
-(13) Trees & Classification
-(14) Decision Trees
-(15) Boosting
-(16) Naive Bayes Classifiers
-(17) K-Nearest Neighbor
-(18) Logistic Regression
-(19) Ranking
-(20) Linear Regression
-(21) Perceptron
-(22) Hierarchical Clustering
-(23) K-means Clustering
-(24) Neural Network
-(25) Sentiment Analysis
-(26) Collaborative Filtering
-(27) Tagging
+
+1. What is ML?
+2. Numerical Var
+3. Categorical Var
+4. Supervised Learning
+5. Unsupervised Learning
+6. Concepts, Input & Attributes
+7. Training & Test Data
+8. Classifier
+9. Prediction
+10. Lift
+11. Overfiting
+12. Bais & Variance
+13. Trees & Classification
+14. Decision Trees
+15. Boosting
+16. Naive Bayes Classifiers
+17. K-Nearest Neighbor
+18. Logistic Regression
+19. Ranking
+20. Linear Regression
+21. Perceptron
+22. Hierarchical Clustering
+23. K-means Clustering
+24. Neural Network
+25. Sentiment Analysis
+26. Collaborative Filtering
+27. Tagging
 
 <Line No.5 Start!>
 
-## 5. Text Mining/NLP(1) Corpus   
-(2) Named Entity Recognition 
-(3) Text Analysis  
-(4) UIMA   
-(5) Term Document Matrix 
-(6) Term Frequerncy & Weight
-(7) Support Vector Machines 
-(8) Association Rules  
-(9) Market Based Analysis 
-(10) Feature Extraction  
-(11) Using Mahout  
-(12) Using Weka  
-(13) Using NLTK  
-(14) Classify Text  
-(15) Vocabluary Mapping  
+## 5. Text Mining/NLP
 
+1. Corpus   
+2. Named Entity Recognition 
+3. Text Analysis  
+4. UIMA   
+5. Term Document Matrix 
+6. Term Frequerncy & Weight
+7. Support Vector Machines 
+8. Association Rules  
+9. Market Based Analysis 
+10. Feature Extraction  
+11. Using Mahout  
+12. Using Weka  
+13. Using NLTK  
+14. Classify Text  
+15. Vocabluary Mapping  
 
 <Line No.6 Start!>
 
-
 ## 6. Visualization
-(1) Data Exploation in R (Hist, Boxplot etc)
-(2) Uni, Bi & Multivariate Viz
-(3) ggplot2
-(4) Histogram & Pie (Uni)
-(5) Tree & Tree Map
-(6) Scatter Plot (Bi)
-(7) Line Charts (Bi)
-(8) Spatial Charts
-(9) Survey Plot
-(10) Timeline
-(11) Decision Tree
-(12) D3.js
-(13) InfoVis
-(14) IBM Many Eyes
-(15) Tableau
+
+1. Data Exploation in R (Hist, Boxplot etc)
+2. Uni, Bi & Multivariate Viz
+3. ggplot2
+4. Histogram & Pie (Uni)
+5. Tree & Tree Map
+6. Scatter Plot (Bi)
+7. Line Charts (Bi)
+8. Spatial Charts
+9. Survey Plot
+10. Timeline
+11. Decision Tree
+12. D3.js
+13. InfoVis
+14. IBM Many Eyes
+15. Tableau
 
 <Line No.7 Start!>
 
 ## 7. BigData
-(1) MapReduce Fundamentals
-(2) Hadoop Components
-(3) HDFS
-(4) Data Replication Principles
-(5) Setup Hadoop(IBM / Cloudera / HortonWorks)
-(6) Name & Data Nodes
-(7) Job & Task Tracker
-(8) M/R Programming
-(9) SqoopL Kiading Data in HDFS
-(10) Flume, Scribe : For Unstruct Data
-(11) SQL with Pig
-(12) DWH with Hive
-(13) Scribem Chukwa for Weblog
-(14) Using Mahout
-(15) Zookeeper Avro
-(16) Storm : Hadoop Realtime
-(17) Rhadoop, RHIPE
-(18) rmr
-(19) Cassandra
-(20) MongoDB, Neo4j
+1. MapReduce Fundamentals
+2. Hadoop Components
+3. HDFS
+4. Data Replication Principles
+5. Setup (HadoopIBM / Cloudera / HortonWorks)
+6. Name & Data Nodes
+7. Job & Task Tracker
+8. M/R Programming
+9. SqoopL Kiading Data in HDFS
+10. Flume, Scribe : For Unstruct Data
+11. SQL with Pig
+12. DWH with Hive
+13. Scribem Chukwa for Weblog
+14. Using Mahout
+15. Zookeeper Avro
+16. Storm : Hadoop Realtime
+17. Rhadoop, RHIPE
+18. rmr
+19. Cassandra
+20. MongoDB, Neo4j
 
 <Line No.8 Start!>
 
-## 8. Data Ingestion (Start With 9. Data Munging)
-(1) Summary of Data Formats
-(2) Data Discovery
-(3) Data Sources & Acquisition
-(4) Data Intergration
-(5) Data Fusion
-(6) Transformation & Enrichment
+## 8. Data Ingestion Start With 9. Data Munging.
 
+1. Summary of Data Formats
+2. Data Discovery
+3. Data Sources & Acquisition
+4. Data Intergration
+5. Data Fusion
+6. Transformation & Enrichment
 Pls Wait finishing Line No.9 Data Munging
-
-(7) Data Survey
-(8) Google OpenRefine
-(9) How much Data?
-(10) Using ETL
+7. Data Survey
+8. Google OpenRefine
+9. How much Data?
+10. Using ETL
 
 <Line No.10 Start!>
 
 ## 9. Data Munging
-(1) Dimensionality & Numerosity Reduction
-(2) Normalization
-(3) Data Scrubbing
-(4) Handling Missing Valuse
-(5) Unbiased Estiamtors
-(6) Binning Sparse Values
-(7) Feature Extraction
-(8) Denoising
-(9) Sampling
-(10) Stratified Sampling
-(11) Principal Component Analysis
+
+1. Dimensionality & Numerosity Reduction
+2. Normalization
+3. Data Scrubbing
+4. Handling Missing Valuse
+5. Unbiased Estiamtors
+6. Binning Sparse Values
+7. Feature Extraction
+8. Denoising
+9. Sampling
+10. Stratified Sampling
+11. Principal Component Analysis
 
 restart 'Data Survey' Station in Line No.8
 
 <Line No.10 Start!>
 
 ## 10. Toolbox
-(1) MS Excel w/ Analysis ToolPak
-(2) Java, Python
-(3) R, R-studio, Rattle
-(4) Weka, Knmime, RapidMiner
-(5) Hadoop Dist of Choice
-(6) Spark, Storm
-(7) Flume, Scibe, Chukwa
-(8) Nutch, Talend, Scraperwiki
-(9) webscraper, Flume, Sqoop
-(10) tm, RWeka, NLTK
-(11) RHIPE
-(12) D3.js, ggplot2, Shiny
-(13) IBM Languageware
-(14) Cassnadra, MongoDB
-
-
-
+1. MS Excel w/ Analysis ToolPak
+2. Java, Python
+3. R, R-studio, Rattle
+4. Weka, Knmime, RapidMiner
+5. Hadoop Dist of Choice
+6. Spark, Storm
+7. Flume, Scibe, Chukwa
+8. Nutch, Talend, Scraperwiki
+9. webscraper, Flume, Sqoop
+10. tm, RWeka, NLTK
+11. RHIPE
+12. D3.js, ggplot2, Shiny
+13. IBM Languageware
+14. Cassnadra, MongoDB
