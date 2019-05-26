@@ -231,7 +231,7 @@ Chandrasekarn은 지하철지도를 영감으로 커리큘럼을 묘사하는데
 4. Data Intergration
 5. Data Fusion
 6. Transformation & Enrichment
-Pls Wait finishing Line No.9 Data Munging
+<Pls Wait finishing Line No.9 Data Munging>
 7. Data Survey
 8. Google OpenRefine
 9. How much Data?
@@ -253,7 +253,7 @@ Pls Wait finishing Line No.9 Data Munging
 10. Stratified Sampling
 11. Principal Component Analysis
 
-restart 'Data Survey' Station in Line No.8
+<restart 'Data Survey' Station in Line No.8>
 
 <Line No.10 Start!>
 
